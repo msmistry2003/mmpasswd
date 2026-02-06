@@ -1,0 +1,6 @@
+cryptography
+customtkinter
+pykeepass
+construct
+pywin32
+winshell

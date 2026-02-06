@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Distribution / Build
+dist/
+build/
+*.spec
+*.exe
+
+# Encryption / Private Data
+*.kdbx
+*.key
+*.db
+vault.db
+vault.key
+secrets.json
+config.json
+
+# IDEs
+.vscode/
+.idea/
+
+# Antigravity/Agentic
+.gemini/
+.agent/
+brain/
+implementation_plan.md
+task.md
+walkthrough.md
