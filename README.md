@@ -26,7 +26,7 @@ A safe, modern, and local password manager built with Python and CustomTkinter. 
 ## ⬇️ Download
 
 For most users, it is recommended to use the **Standalone Installer**:
-*   **[Download MMPasswd_Installer.exe](https://github.com/msmistry2003/releases/latest)** (Windows)
+*   **[Download MMPasswd_Installer.exe](https://github.com/msmistry2003/mmpasswd/releases/tag/v1.0.0)** (Windows)
     *   One-click installation.
     *   Creates Desktop and Start Menu shortcuts.
     *   Includes all dependencies.
